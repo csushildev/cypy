@@ -14,3 +14,18 @@ Cryptography is built on four core principles. Together, these principles form a
 Assymetric Key Algorithms : 
 RSA : 
 <img width="1270" height="581" alt="image" src="https://github.com/user-attachments/assets/02c3f8d9-2d77-4c43-adbb-b8388420eb59" />
+
+
+Limitations : large key 2048 bits, which can slow down processing. requires more power
+
+
+ECC : 
+Provides strong encryption with shorter key  size 
+
+<img width="1209" height="554" alt="image" src="https://github.com/user-attachments/assets/1b55482c-92fc-40e8-814b-de74b1bb2ff4" />
+
+Limitations : Complex to implement.
+
+
+<img width="1130" height="555" alt="image" src="https://github.com/user-attachments/assets/c67d359b-b42a-4cd2-946c-f88ef1072ddf" />
+
